@@ -27,13 +27,4 @@ It is intended as a learning and experimentation space for applying mathematical
 - **Language:** Python 3
 - **Libraries:** `numpy`, `matplotlib`, `scipy`
 
-## 🎯 Purpose
-This repository was developed to deepen my understanding of economic modeling by translating theory into executable simulations.  
-It can serve as a reference for students or researchers interested in computational economics.
 
-## 🚀 How to Run
-Clone the repository and run any model file directly:
-```bash
-git clone https://github.com/YourUsername/Economic-Models.git
-cd Economic-Models
-python "Solow Model.py"
